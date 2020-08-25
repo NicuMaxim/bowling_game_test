@@ -1,0 +1,9 @@
+
+					kolea : 21
+					max : 17
+					jenea : 15
+
+					Sasha  : 105
+					Maxim : 81
+					vasea : 48
+					Максим : 111
